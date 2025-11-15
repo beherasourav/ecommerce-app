@@ -4,7 +4,7 @@ const ShopCategory = () => {
   return (
     <div>
       <div>ShopCategory</div>
-      <p>Hello Everyone</p>
+      <p>Hello Everyone: cccc</p>
     </div>
   );
 };
